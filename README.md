@@ -1,6 +1,6 @@
 # :tomato: Tomato Timer :alarm_clock:
 
-A Pomodoro application used personally and built for those seeking a simple, yet functional timer for their mobile device. Built using [React-Native](https://reactnative.dev/).
+A [Pomodoro](https://en.wikipedia.org/w/index.php?title=Pomodoro_Technique) application used personally and built for those seeking a simple, yet functional timer for their mobile device. Built using [React-Native](https://reactnative.dev/).
 
 ## Prerequisites
 
